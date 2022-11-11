@@ -1,0 +1,128 @@
+{
+    "bot": {
+        "token": "MTA0MDM0MDg3MDA5Mzg4MTQxNA.G_8bTb.lgm4xVTu9975nBxfwqdAz4Oy8E9bbBCFO_DC9s",
+        "owner": "514943676061974529",
+        "prefix": ".",
+        "BotStatus": "ÇAÇA ❤️ Was Here",
+        "BotFooter": "ÇAÇA ❤️ Was Here",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "978994929667833906",
+            "log": "981485831246200852",
+            "limit": 5
+        },
+        "jail": {
+            "staff": "973937301719748608",
+            "roles": "973937301682024481",
+            "log": "981486861308542986",
+            "channel": "981163470529654844,981163580034514974",
+            "limit": 10
+        },
+        "mute": {
+            "staff": "978703586617864212",
+            "roles": "978703752775217193",
+            "log": "981491330523992104",
+            "limit": 100
+        },
+            "voicemute": {
+            "staff": "981868380644573235",
+            "log": "1030220242892378232",
+            "limit": 100
+        },
+        "warn": {
+            "staff": "",
+            "log": ""
+        },
+        "transport": {
+            "staff": "981867131673124874"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "978730406205595678",
+        "rollog": "981865608687779870",
+        "messagelog": "981906802163736586",
+        "rolloger": "",
+        "isimlog": "1030220873787002973",
+        "kayıtlog": "1030221011733450822",
+        "seslog": "982048112380088360"
+    },
+    "roles": {
+        "booster": "981915838380666910",
+        "vip": "978703605752275004",
+        "sponsor": "980856352702341163",
+        "müzisyen": "978703629429112892",
+        "team": ""
+    },
+	    "basvuru": {
+        "basvuruyapchannel": "986593028204552232",
+        "ilkytrolleri": ["973937301682024483", "973937301740736595"],
+        "successMessage": "Tebrikler sunucumuzda yetkili oldun!\n\nDetaylı bilgi için yetkili alım rollerinde ki herhangi bir kişiye yazabilirsin.",
+        "deleteMessage": "Başvurunuz reddedildi, bir kaç saat sonra tekrar başvuru yapabilirsinz.",
+        "staff": "973937301778497569",
+        "log": "986584783436009482",
+        "title": "Yetkili Başvuru İşlemi!",
+        "color": "YELLOW",
+        "description": "Yetkili olmak istiyorsan aşşağıda ki Başvuru butonuna tıklamalısın.\n\nBaşvuru talebini sadece yetkili olmak istiyorsanız açınız.",
+        "sorular": ["isim ve yaşınız.","günde kaç saat aktif olarak discord kullanıyorsunuz.", "sunucumuzda kaç saat aktif kalabilirsiniz?","daha önce yetkili olduğunuz bir sunucu var mıydı? Varsa sunucunun teması neydi?","daha önce yetkili olduğun sunucu da kaç kişi vardı?","eklemek istediğiniz herhangi bir şey varsa belirtebilirsiniz."],
+        "timeout": 2000
+    },
+    "channels": {
+        "chat": "973937302776725553",
+        "voicechannel": "973937302776725551",
+        "welcomechannel": "980063529761656872",
+        "commandchannel": "980063529761626872",
+        "rules": "973937302466334808"
+    },
+    "kategoriler": {
+        "publickategorisi": "973937303145832519",
+        "privatekategorisi": "973937303519133706"
+    },
+    "registration": {
+        "unregistered": "973937301661057064",
+        "man": ["973937301661057066", "973937301661057065"],
+        "woman": ["973937301661057068", "973937301661057067"],
+        "yetkilialim": "973937301778497569",
+		"botcommands": "973937301682024484",
+        "staff": "973937301682024483",
+        "enaltyetkilirolü": "973937301740736594",
+        "GuilDTag": "bg",
+        "GuilDTag2": "bg",
+        "GuilDTag3": "Bg",
+        "GuilDTag4": "bG",
+        "TagSymbol": "•",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "973937301682024479",
+        "susoeciosnickname": "• Şüpheli Hesap",
+        "yasaklıtag": "973937301682024480",
+        "oneman": "973937301661057066",
+        "onewoman": "973937301661057068",
+        "GuildDiscrim": "0001",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "973937301635870811",
+        "GuilDName": "reformer of borangkdn",
+        "GuildOwnerRole": ["973937301778497566", "981916320515907604"]
+    },
+    "emojis": {
+        "tada": "<a:bg_cekiliske:974966385941819392>",
+        "yes": "<a:bg_onaylamak:974966348738363412>",
+        "no": "<a:bg_reddetmek:974966361975562250>"
+    },
+        "buttons": {
+            "giveaway": "973937301635870815",
+            "activity": "973937301635870816",
+            "turnuva": "986534922435039292"
+        }
+    }
+    
